@@ -1,0 +1,6 @@
+# requirements.txt - CPU-only PyTorch
+
+packaging # missing dependency from PiPPy
+numpy
+timm
+# torch==2.0.0
